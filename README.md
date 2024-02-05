@@ -101,7 +101,7 @@ I right click on each adapter and check the Status of each - one of the IPV4 is 
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/6fbe7880-6ed8-4a2a-b35f-4af31349561b)
 </br></br>
-I check the other one for completeness and it's not connected to the internet - so I rename in to Intranet.
+I check the other one for completeness and it's not connected to the internet. It has an ip address that was automatically assigned by the VM - so I rename in to Intranet.
 </br></br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0e8109a5-a902-49a6-aeb2-3ed39e75f0d0)
 </br>
