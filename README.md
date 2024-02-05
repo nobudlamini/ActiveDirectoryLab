@@ -18,32 +18,57 @@ In this home lab, I will demonstrate how to create an Active Directory Home Lab 
 <h2>Architecture walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+
+ 
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/e5dc0805-82b4-4b61-afce-0c53ad401f24)
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+I’m using Oracle VirtualBox to create the virtual environment, as well as Windows 10 ISO and a Server 2019 ISO to install the two operating systems on two separate virtual machines. <br/>
+ 
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/92ed38c0-8199-4928-abe8-9f9e83de9750)
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+</br></br>
+
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/39ee9777-5ae5-4476-955c-775f6bbb6778)
+
+</br></br>
+
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/e934585a-2aca-4c82-b533-1422d81d3c92)
+
+After I downloaded and installed everything, I created my first virtual machine, which is going to be the domain controller that will house Active Directory. 
+
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/aaf97988-7cf1-40d9-a42f-b6a91fa8312c)
+
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/67c564bb-3abd-422b-9865-18826cc19762)
+
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/b5294bf6-fbbe-412e-9303-463c79d5f29a)
+
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/86d8cfd2-9f47-4c78-a281-8f3e06c12614)
+
+<br />
+<br />
+
+I’m going to give this virtual machine two network adapters, one is going to be used to connect to the outside Internet and the other one that's going to be used to connect to the Virtual Box thereby creating a private network that the clients are going to connect to. 
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/b8a3eeb0-11a3-4475-8cec-43adafef9a84)
+</br></br>
+
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/618cd873-1cdf-42f5-8940-1a22676cabac)
+
+
+
+
+
+
+
+
+
