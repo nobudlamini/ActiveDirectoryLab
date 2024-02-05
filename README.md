@@ -1,6 +1,5 @@
 <h1>Active Directory Home Lab</h1>
 
-
 <h2>Description</h2>
 In this home lab, I will demonstrate how to create an Active Directory Home Lab using Orable Virtualbox and add 1000 users with Powershell.
 <br />
@@ -13,7 +12,7 @@ In this home lab, I will demonstrate how to create an Active Directory Home Lab 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Architecture walk-through:</h2>
 
