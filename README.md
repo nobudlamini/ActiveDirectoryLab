@@ -88,9 +88,24 @@ Once I have installed the software I can login to my server
 </br></br>
 The first thing I will do is set up the network configuration inline with my archicture diagram here:
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/feb59ff3-10c3-470c-a34e-ff45c4dc9791)
+</br></br>
+I visit my networks settings inside the DC machine to start making changes
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/996de5f5-ad9d-4f23-84a6-019819f51af9)
+</br></br>
+There should be two network adapters (according to the vm settings I updated earlier)
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/692d0326-c2ea-4417-a2f9-f9c6948ec940)
+</br></br>
 
-
-
+I right click on each adapter and check the Status of each - one of the IPV4 is reflective of my internet address - so that's the adapter linked to the internet.
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/8e715361-18ac-423d-a825-323c78a067d1)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/6fbe7880-6ed8-4a2a-b35f-4af31349561b)
+</br></br>
+I check the other one for completeness and it's not connected to the internet - so I rename in to Intranet.
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0e8109a5-a902-49a6-aeb2-3ed39e75f0d0)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0f4a1e78-6b50-4ee5-a27e-944d3c1a1abf)
 
 
 
