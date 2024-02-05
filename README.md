@@ -63,6 +63,24 @@ I’m going to give this virtual machine two network adapters, one is going to b
 </br></br>
 
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/618cd873-1cdf-42f5-8940-1a22676cabac)
+</br></br>
+
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/6d15089a-2af7-44de-aeb1-666bba1de573)
+</br>
+
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/afcf1b96-7bbe-4ad4-ab59-ffa332547b01)
+
+</br></br>
+I selected the desktop experience to make the process easy to follow:
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/7f1ea876-4b9b-428b-bea3-c2f6a277d011)
+</br></br>
+Accept all the license agreements
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/e73d7f2d-6100-4d78-9439-1b7531b84397)
+</br></br>
+I selected the Custom Install as I wanted to choose what I wanted
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/7cfb6488-590d-463d-b482-0b5e27f7c141)
+
 
 
 
