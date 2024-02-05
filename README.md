@@ -80,7 +80,14 @@ Accept all the license agreements
 </br></br>
 I selected the Custom Install as I wanted to choose what I wanted
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/7cfb6488-590d-463d-b482-0b5e27f7c141)
+</br></br>
 
+Once I have installed the software I can login to my server
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/ba5273cf-d9c2-4c3b-8312-59508e6c96c0)
+</br></br>
+The first thing I will do is set up the network configuration inline with my archicture diagram here:
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/feb59ff3-10c3-470c-a34e-ff45c4dc9791)
 
 
 
