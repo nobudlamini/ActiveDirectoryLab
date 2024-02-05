@@ -107,8 +107,11 @@ I check the other one for completeness and it's not connected to the internet. I
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0f4a1e78-6b50-4ee5-a27e-944d3c1a1abf)
 
-
-
-
+</br></br>
+To make my PC easy to find I will rename it to DC (it currently has a long weird name)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/06cf14e0-b2d5-4a29-914b-0af5a55064f7)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0fb9df7f-2175-44cd-9f8d-d8be153f6400)
 
 
