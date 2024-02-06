@@ -121,9 +121,29 @@ I will not be adding a default gateway as the domain controller will serve as th
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/02fd82e8-92d2-4f17-a38e-638a349da70b)
 </br></br>
-Now that the two NICS have been set up with the ip addresses, I can install Active Directory services.
+Now that the two NICS have been set up with the ip addresses, I can install Active Directory services and create a domain.
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/59b07348-9f43-41e8-ada5-96af78233ea1)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/ee3e5b5c-b9ab-49f9-afd9-f4e9366cd90b)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/92890e5f-96a9-4af1-9b7f-157ae538c046)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/b88ab55f-7a04-42c0-af2e-6221cd67bc56)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/5c4ce57f-10aa-45ca-bc35-6db0f9bec106)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/defb4f46-55ba-40b3-aceb-965304562c26)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/4b0aff93-83ca-44af-b26e-513977f7ab99)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/32fe64f6-e57c-40c8-aedf-a2e683842a9f)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/533d621c-d21c-4a5e-b51c-ca873dfc8afa)
+</br></br>
+
+
+
 
 
 
