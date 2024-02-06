@@ -112,5 +112,17 @@ To make my PC easy to find I will rename it to DC (it currently has a long weird
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/06cf14e0-b2d5-4a29-914b-0af5a55064f7)
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0fb9df7f-2175-44cd-9f8d-d8be153f6400)
+</br></br>
+So  now that I have setup the internal NIC and the external NIC I will set the IP address as per my architecture diagram:
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/f69f2ebd-1f83-4270-b614-47ff0671fec1)
+</br></br>
+I will not be adding a default gateway as the domain controller will serve as the gateway. And after I install Active Directory, AD will install DNS, so the server will use itself as the DNS. So for the server, I just enter the loopback ip address that points to itself
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/02fd82e8-92d2-4f17-a38e-638a349da70b)
+
+
+
+
 
 
