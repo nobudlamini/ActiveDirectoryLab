@@ -120,6 +120,10 @@ So  now that I have setup the internal NIC and the external NIC I will set the I
 I will not be adding a default gateway as the domain controller will serve as the gateway. And after I install Active Directory, AD will install DNS, so the server will use itself as the DNS. So for the server, I just enter the loopback ip address that points to itself
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/02fd82e8-92d2-4f17-a38e-638a349da70b)
+</br></br>
+Now that the two NICS have been set up with the ip addresses, I can install Active Directory services.
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/59b07348-9f43-41e8-ada5-96af78233ea1)
 
 
 
