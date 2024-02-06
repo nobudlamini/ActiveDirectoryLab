@@ -141,10 +141,15 @@ Now that the two NICS have been set up with the ip addresses, I can install Acti
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/533d621c-d21c-4a5e-b51c-ca873dfc8afa)
 </br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/1cb0e581-9853-4f44-a972-d556cec8c78c)
 
+</br></br>
+Now that we have installed AD, I can promote this computer to the domain by adding a new forest and I'll name the new domain mydomain.com
+</br></br>
 
-
-
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/a826daae-cd4d-478d-9aaa-23ea0c22b774)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/8af858f7-2414-4c01-a264-27b5906d5fa2)
 
 
 
