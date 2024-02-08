@@ -248,9 +248,27 @@ Now I will set up a DHCP server on the domain controller which will allow the Wi
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/2ebce9bc-f814-40cb-8f26-3d5037e6746a)
 </br></br>
-Now the DHCP role has completed installing
+Now the DHCP role has completed installing I can go to the DHCP to setup the scope
 </br></br>
-
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/a1e97d18-e6d4-4ef4-9d6f-cdc0bf166113)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/3d34fbae-48ea-4e0e-9d58-35a604a5a20b)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/9efed0d1-57d3-45f3-b9c8-f1c8e6ab972e)
+</br>
+This is the scope that I have defined in my architecture diagram, and I will implement it here
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/4d6d9050-78ed-4f60-892c-f6a345d537c1)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/744aa2aa-e1b5-4a6d-91dc-defbd8ccd0bd)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/5c14d753-8806-44ed-8c1d-3a149f933a7b)
+</br></br>
+I will just set the IP lease to be 8 hours (it soesn't really matter since this is a lab environment)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/39521433-bc78-443c-8454-a871ed5f00c2)
+</br></br>
+I will setup the DHCP options here
 
 
 
