@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+ <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
 In this home lab, I will demonstrate how to create an Active Directory Home Lab using Orable Virtualbox and add 1000 users with Powershell.
@@ -150,6 +150,20 @@ Now that we have installed AD, I can promote this computer to the domain by addi
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/a826daae-cd4d-478d-9aaa-23ea0c22b774)
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/8af858f7-2414-4c01-a264-27b5906d5fa2)
+
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/1a5da1a7-2ad8-48e1-8c46-8e6772328134)
+
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/fb7d412d-80ca-4daf-8dea-6c22b0c1d687)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/5156c15f-fd96-455e-bab9-567f7f2ddfae)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/ae1cb47e-a503-4b21-b364-565671fae204)
+
+
+
+
 
 
 
