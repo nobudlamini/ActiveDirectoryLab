@@ -191,5 +191,10 @@ Then once my user is created, I will update it's properties to ensure it's a mem
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/2f2ed718-4679-45b5-963f-e539b0d9f7e7)
 </br>
+Now that I've created my own admin account, I logout of the default account and log back into my  domain using my own admin account
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/1c544930-140c-4e7e-887e-32988e066b90)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/f032b7f1-1f1c-4558-a053-7ff9f6a1ee11)
 
-
+</br></br>
