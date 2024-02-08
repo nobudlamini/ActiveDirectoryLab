@@ -202,6 +202,20 @@ Now that I've logged into my admin account, the next step is to install the Remo
 </br></br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/9849edc6-bbe4-4c85-9025-ec1761e4951d)
 </br></br>
+The purpose of this is to allow the Windows 10 Client (that I haven't created yet) to be on the virtual network but still be able to access the internet  through the domain controller. So I will install the RAD and NAT on the domain controller.
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/fd4796a3-9f19-4a4d-9928-a8f88777bd93)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/c4b942bb-0b7a-4566-8af0-59f38b3dd970)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/dc0be657-ea82-413f-b640-a6f429d3d402)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/021f16f4-99c9-4759-a156-06b3e2d00972)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/38ace432-0492-4117-9055-bc3cd0b216a9)
+</br>
+
+
 
 
 
