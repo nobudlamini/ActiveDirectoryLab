@@ -198,3 +198,10 @@ Now that I've created my own admin account, I logout of the default account and 
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/f032b7f1-1f1c-4558-a053-7ff9f6a1ee11)
 
 </br></br>
+Now that I've logged into my admin account, the next step is to install the Remote Access Server and the Network Address Translator
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/9849edc6-bbe4-4c85-9025-ec1761e4951d)
+</br></br>
+
+
+
