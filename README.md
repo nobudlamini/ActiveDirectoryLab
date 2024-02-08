@@ -160,12 +160,36 @@ Now that we have installed AD, I can promote this computer to the domain by addi
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/5156c15f-fd96-455e-bab9-567f7f2ddfae)
 </br></br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/ae1cb47e-a503-4b21-b364-565671fae204)
-
-
-
-
-
-
-
+</br></br>
+Now when I login I can see mydomain
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/9eccb936-adb9-431a-8617-2ec5d38af38e)
+</br></br>
+Now I will  setup my own admin account on the newly created domain instead of using the systems default account
+</br></br>
+I will  start by creating an organisational unit where my admin account will reside
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/028c6394-73c2-434e-a92c-e249a8199850)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/367cb104-64c8-4b02-a5cb-5942bf71568c)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/69535ed8-f816-4b2e-893b-8b456e5b13bb)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/724ddad5-a355-4a37-9238-ba0eebdde3d5)
+</br></br>
+Then I will create  an admin user inside the ADMIN organisation  unit
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/7c4be1fc-1503-4c79-b5b2-809fdd977903)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/6abb970e-0ee7-49aa-a9d8-9a5c6de0cce5)
+</br></br>
+Then once my user is created, I will update it's properties to ensure it's a member of the organisational unit
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/36b26828-3a9a-4229-a5e9-c55f6d9aebf6)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/0feac841-be82-4ea7-8a55-202a3f63e452)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/2f2ed718-4679-45b5-963f-e539b0d9f7e7)
+</br>
 
 
