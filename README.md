@@ -213,7 +213,31 @@ The purpose of this is to allow the Windows 10 Client (that I haven't created ye
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/021f16f4-99c9-4759-a156-06b3e2d00972)
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/38ace432-0492-4117-9055-bc3cd0b216a9)
+</br></br>
+Now I can setup the Routing and Remote access and the NAT
 </br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/e942fdac-78f2-4518-8d75-b1aa81ccb3a9)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/733367af-cb26-458a-8027-c6da8162e3a3)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/83bd71fa-3728-4f90-8f3e-8e8bd5322f0f)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/001bbcfd-eeb1-471b-a2fb-6c5c45bf3436)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/87993b04-f823-470e-8f8d-b42f60f86e55)
+</br></br>
+From here I select the externally facing NIC (which I labelled as "Internet" earlier)
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/faa27d06-5d6d-440c-a5a4-db03c3613c47)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/22fda133-3579-4227-b643-f1dd4c8ff219)
+</br>
+Now I can see that my remote access server has been correctly configured
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/d82ee13b-ab8c-47f9-934f-27a0e1f08ebc)
+</br></br>
+
+
 
 
 
