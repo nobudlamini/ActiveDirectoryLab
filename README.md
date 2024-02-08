@@ -263,14 +263,22 @@ This is the scope that I have defined in my architecture diagram, and I will imp
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/744aa2aa-e1b5-4a6d-91dc-defbd8ccd0bd)
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/5c14d753-8806-44ed-8c1d-3a149f933a7b)
-</br></br>
+</br>
 I will just set the IP lease to be 8 hours (it soesn't really matter since this is a lab environment)
 </br></br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/39521433-bc78-443c-8454-a871ed5f00c2)
+</br>
+I will setup the DHCP options here to be able to tell the clients which server to use for DNS and which server to use for Gateway. I have setup the NAT on the domain server and the domain server has routing configured as well. So one of it's responsibilities will be to forward traffic from the client to the internet. So I will use the internal NIC of  the domain controller as the gateway.
 </br></br>
-I will setup the DHCP options here
-
-
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/a2c9d972-4d1e-4312-918d-1816e1d1869f)
+</br></br>
+AD automatically installs DNS and we have to use to domain controller as the DNS server to be able to join the domain
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/4cc38ab4-6f79-47fb-ae70-3132301cc799)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/96555a5c-1af0-4909-9c3a-61e339dfc630)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/aeb9d59d-2133-4b35-a238-13147f40c573)
+</br></br>
 
 
 
