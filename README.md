@@ -232,10 +232,28 @@ From here I select the externally facing NIC (which I labelled as "Internet" ear
 </br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/22fda133-3579-4227-b643-f1dd4c8ff219)
 </br>
-Now I can see that my remote access server has been correctly configured
+Now I can see that my remote access server has been correctly configured and if we install a Windows 10 client it should be able to get to the internet
 </br></br>
 ![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/d82ee13b-ab8c-47f9-934f-27a0e1f08ebc)
 </br></br>
+Now I will set up a DHCP server on the domain controller which will allow the Windows 10 clients to get an IP address to browse the internet even though they are on the private network (just like any corporate network).
+</br></br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/c724130c-942f-42f7-a2ff-db2af802327b)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/6d6078e7-e155-4192-9427-4dfc40b70bb2)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/54de2021-7a49-495c-aa84-96d7b319e345)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/7b83d56a-1dfe-448e-ba2a-64060c8edcb6)
+</br>
+![image](https://github.com/nobudlamini/ActiveDirectoryLab/assets/150668386/2ebce9bc-f814-40cb-8f26-3d5037e6746a)
+</br></br>
+Now the DHCP role has completed installing
+</br></br>
+
+
+
+
 
 
 
